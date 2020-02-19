@@ -1,0 +1,15 @@
+{
+    "name": "kevinverum/httprequestwithtoken",
+    "description": "Send http requests with token",
+    "authors": [
+        {
+            "name": "Kevin Davies",
+            "email": "kevin@verum.nz"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0@dev",
+        "vlucas/phpdotenv": "^4.1@dev"
+    }
+}
