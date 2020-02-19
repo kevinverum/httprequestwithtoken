@@ -22,7 +22,6 @@ class ComposerStaticInitfa5341007f6079a14c6a95a3f27acc2f
         'P' => 
         array (
             'Psr\\Http\\Message\\' => 17,
-            'Psr\\Http\\Client\\' => 16,
             'PhpOption\\' => 10,
         ),
         'G' => 
@@ -45,10 +44,6 @@ class ComposerStaticInitfa5341007f6079a14c6a95a3f27acc2f
         'Psr\\Http\\Message\\' => 
         array (
             0 => __DIR__ . '/..' . '/psr/http-message/src',
-        ),
-        'Psr\\Http\\Client\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/psr/http-client/src',
         ),
         'PhpOption\\' => 
         array (

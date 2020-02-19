@@ -1,6 +1,6 @@
 {
     "name": "kevinverum/httprequestwithtoken",
-    "description": "Send http requests with token",
+    "description": "Send http requests with token. Token will automatically update if required.",
     "authors": [
         {
             "name": "Kevin Davies",
@@ -8,7 +8,7 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "^7.0",
-        "vlucas/phpdotenv": "^4.1"
+        "vlucas/phpdotenv": "^4.1",
+        "guzzlehttp/guzzle": "^6.5"
     }
 }
